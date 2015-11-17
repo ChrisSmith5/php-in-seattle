@@ -40,12 +40,25 @@ PHP Tech: Silex, Restler, Doctrine2, AWS PHP SDK, Guzzle, Pheanstalk, and many m
 ----
  
 **Amazon PHP SDK**
+```
 Seattle, WA
- 
+```
 [https://aws.amazon.com/sdk-for-php/](https://aws.amazon.com/sdk-for-php/) 
 
-PHP Tech: Guzzle, Composer, JMESPath, PhpUnit, Behat 
+PHP Tech: Guzzle, Composer, JMESPath, PhpUnit, Behat
 
+more.
+
+----
+ 
+**Area360**
+```
+911 Western Ave
+Suite 563
+Seattle, WA 98104
+```
+[http://www.area360.com](http://www.area360.com)
+[@AreaThreeSixty](https://twitter.com/AreaThreeSixty)
 
 ## B
 
@@ -249,5 +262,4 @@ http://www.tune.com/
 
 
 ## Z 
-
 
